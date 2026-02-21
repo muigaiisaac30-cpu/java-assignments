@@ -1,5 +1,6 @@
 // NAME: ISAAC JULIUS WAINAINA
 // REGISTRATION NUMBER: CT100/G/22432/24
+//CAT 1, SECTION B
 
 // Vehicle.java
 public class Vehicle {
@@ -21,4 +22,5 @@ public class Vehicle {
         System.out.println("Model: " + model);
         System.out.println("Year: " + year);
     }
+
 }
